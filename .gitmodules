@@ -4,6 +4,3 @@
 [submodule "cpp_study"]
 	path = cpp_study
 	url = git@github.com:MingYueRuYa/cpp_study.git
-[submodule "awesome-cpp"]
-	path = awesome-cpp
-	url = git@github.com:MingYueRuYa/awesome-cpp.git
