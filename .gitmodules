@@ -1,6 +1,6 @@
 [submodule "cpp_inside_object"]
 	path = cpp_inside_object
 	url = git@github.com:MingYueRuYa/cpp_inside_object.git
-[submodule "cpp_study"]
-	path = cpp_study
-	url = git@github.com:MingYueRuYa/cpp_study.git
+[submodule "windows_study"]
+	path = windows_study
+	url = git@github.com:MingYueRuYa/windows_study.git
